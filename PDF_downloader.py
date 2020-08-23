@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python
 
 # Parsing Command Line: https://www.tutorialspoint.com/python3/python_command_line_arguments.htm
 # Downloading files: https://likegeeks.com/downloading-files-using-python/
